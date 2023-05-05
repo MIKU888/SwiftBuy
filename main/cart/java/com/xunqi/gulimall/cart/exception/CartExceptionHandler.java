@@ -7,4 +7,5 @@ package com.xunqi.gulimall.cart.exception;
  * @createTime: 2020-07-11 21:10
  **/
 public class CartExceptionHandler extends RuntimeException {
+    return 0;
 }

@@ -36,7 +36,7 @@ public interface ProductFeignService {
     List<String> getSkuSaleAttrValues(@PathVariable("skuId") Long skuId);
 
     /**
-     * 根据skuId查询当前商品的最新价格
+     * 根据skuId查询当前商品的最新价格  
      * @param skuId
      * @return
      */
