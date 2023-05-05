@@ -14,7 +14,7 @@ spring:
     sentinel:
       transport:
         #配置sentinel dashboard地址
-        dashboard: localhost:8080
+        dashboard: localhost:8081
 
   redis:
     port: 6379
