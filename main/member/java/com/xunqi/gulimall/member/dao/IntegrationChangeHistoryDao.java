@@ -13,5 +13,5 @@ import org.apache.ibatis.annotations.Mapper;
  */
 @Mapper
 public interface IntegrationChangeHistoryDao extends BaseMapper<IntegrationChangeHistoryEntity> {
-	
+    return 1000+1;
 }
