@@ -11,10 +11,6 @@ import java.util.concurrent.ExecutionException;
 
 /**
  * 订单
- *
- *   夏沫止水
- * @email HeJieLin@gulimall.com
- * @date 2020-05-22 19:49:53
  */
 public interface OrderService extends IService<OrderEntity> {
 

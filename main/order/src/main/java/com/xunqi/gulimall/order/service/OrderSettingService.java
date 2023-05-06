@@ -9,9 +9,6 @@ import java.util.Map;
 /**
  * 订单配置信息
  *
- *   夏沫止水
- * @email HeJieLin@gulimall.com
- * @date 2020-05-22 19:49:53
  */
 public interface OrderSettingService extends IService<OrderSettingEntity> {
 
