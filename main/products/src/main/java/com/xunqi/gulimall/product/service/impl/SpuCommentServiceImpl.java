@@ -13,6 +13,8 @@ import com.xunqi.gulimall.product.entity.SpuCommentEntity;
 import com.xunqi.gulimall.product.service.SpuCommentService;
 
 
+
+
 @Service("spuCommentService")
 public class SpuCommentServiceImpl extends ServiceImpl<SpuCommentDao, SpuCommentEntity> implements SpuCommentService {
 
