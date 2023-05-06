@@ -19,10 +19,6 @@ import com.xunqi.common.utils.R;
 
 /**
  * 退款信息
- *
- *   夏沫止水
- * @email HeJieLin@gulimall.com
- * @date 2020-05-22 19:49:53
  */
 @RestController
 @RequestMapping("order/refundinfo")
